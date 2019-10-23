@@ -16,8 +16,6 @@ public class Main {
         System.out.println(c);
 
         System.out.println("" + a + b + c);
-        System.out.println("Hello3");
-
 
 
     }
